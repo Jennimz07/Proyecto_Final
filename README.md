@@ -41,7 +41,6 @@ Editar
 ├── README.md                     # Documentación del proyecto
 ⚙️ Cómo ejecutar el análisis
 Clona el repositorio:
-git clone https://github.com/tuusuario/educacion_inequidad.git
 
 Instala las dependencias necesarias:
 
